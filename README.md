@@ -85,7 +85,7 @@
 
 ## Установка
 
-1. Скачай `Margin of Error (Windows).zip` со страницы [**Releases**](https://github.com/LotWyx/MarginOfError/releases/latest).
+1. Скачай `MarginOfError-Windows.zip` со страницы [**Releases**](https://github.com/LotWyx/MarginOfError/releases/latest).
 2. Распакуй архив целиком.
 3. Запусти `MarginOfError.exe`.
 
