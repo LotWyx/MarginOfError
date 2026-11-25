@@ -7,14 +7,16 @@
 Ты стал совсем крошечным и попал внутрь тетради по математике.<br>
 Собери 10 цифр, реши примеры — и не дай «Ошибке» себя догнать!
 
-[**⬇ Скачать для Windows**](https://github.com/LotWyx/MarginOfError/releases/latest)
+[**⬇ Скачать для Windows**](https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-Windows.zip) &nbsp;·&nbsp; [**▶ Смотреть трейлер**](https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-trailer.mp4)
 
 ![Unity](https://img.shields.io/badge/Unity-6000.6-222c37?logo=unity&logoColor=white)
 ![URP](https://img.shields.io/badge/URP-17.6-2a2d66)
 ![Платформа](https://img.shields.io/badge/Windows-x64-f6c46a?logo=windows&logoColor=0f1236)
 ![НПК](https://img.shields.io/badge/«Серебряная_альфа»-2026-e2434f)
 
-<img src="docs/images/menu.jpg" alt="Главное меню: ночная комната, окно и лампа на столе" width="820">
+<a href="https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-trailer.mp4"><img src="docs/images/trailer.gif" alt="Отрывок трейлера: спуск в лабиринт, цифра-огонёк, погоня «Ошибки», дверь-выход" width="820"></a>
+
+<sub>Отрывок трейлера — нажми, чтобы посмотреть целиком (48 с, MP4)</sub>
 
 </div>
 
@@ -27,6 +29,8 @@
 Игрок ходит по лабиринту от первого лица и ищет **10 цифр-огоньков**. Чтобы поймать цифру, нужно решить пример. Ошибся — за тобой погонится **«Ошибка»**, красная ручка учителя, и с каждой ошибкой она становится быстрее. Когда все цифры собраны, открывается выход — дверь со знаком **«=»**: реши последний пример, и равенство станет верным.
 
 Название — игра слов: *margin* — поля тетради, *error* — ошибка, а *margin of error* в математике означает «погрешность».
+
+<p align="center"><img src="docs/images/menu.jpg" alt="Главное меню: ночная комната, окно и лампа на столе" width="720"></p>
 
 <table>
 <tr>
