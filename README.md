@@ -20,8 +20,7 @@
 
 ## Трейлер
 
-<!-- TRAILER -->
-<p align="center"><img src="docs/images/trailer.gif" alt="Отрывок трейлера: спуск в лабиринт, цифра-огонёк, погоня «Ошибки», дверь-выход" width="820"></p>
+https://github.com/user-attachments/assets/43a2fa45-ebdd-4bc9-b45f-4fd23ebcb7e3
 
 ## Об игре
 
