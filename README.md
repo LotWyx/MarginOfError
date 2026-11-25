@@ -7,20 +7,21 @@
 Ты стал совсем крошечным и попал внутрь тетради по математике.<br>
 Собери 10 цифр, реши примеры — и не дай «Ошибке» себя догнать!
 
-[**⬇ Скачать для Windows**](https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-Windows.zip) &nbsp;·&nbsp; [**▶ Смотреть трейлер**](https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-trailer.mp4)
+[**⬇ Скачать для Windows**](https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-Windows.zip) &nbsp;·&nbsp; [**▶ Трейлер**](#трейлер)
 
 ![Unity](https://img.shields.io/badge/Unity-6000.6-222c37?logo=unity&logoColor=white)
 ![URP](https://img.shields.io/badge/URP-17.6-2a2d66)
 ![Платформа](https://img.shields.io/badge/Windows-x64-f6c46a?logo=windows&logoColor=0f1236)
 ![НПК](https://img.shields.io/badge/«Серебряная_альфа»-2026-e2434f)
 
-<a href="https://github.com/LotWyx/MarginOfError/releases/latest/download/MarginOfError-trailer.mp4"><img src="docs/images/trailer.gif" alt="Отрывок трейлера: спуск в лабиринт, цифра-огонёк, погоня «Ошибки», дверь-выход" width="820"></a>
-
-<sub>Отрывок трейлера — нажми, чтобы посмотреть целиком (48 с, MP4)</sub>
-
 </div>
 
 ---
+
+## Трейлер
+
+<!-- TRAILER -->
+<p align="center"><img src="docs/images/trailer.gif" alt="Отрывок трейлера: спуск в лабиринт, цифра-огонёк, погоня «Ошибки», дверь-выход" width="820"></p>
 
 ## Об игре
 
